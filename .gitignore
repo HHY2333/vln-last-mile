@@ -1,0 +1,18 @@
+# Local research papers / large files
+papers/*.pdf
+
+# Generated datasets and rollouts
+data/
+outputs/
+runs/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
